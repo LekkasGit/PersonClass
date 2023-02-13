@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=name\ age\ gradeAverage
+comment1.target=Student(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ getGradeAverage()
+comment4.params=gradeAverage
+comment4.target=void\ setGradeAverage(int)
+comment5.params=
+comment5.target=java.lang.String\ checkAge()
+numComments=6
